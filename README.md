@@ -11,8 +11,8 @@
 		
 		
 		System.out.print("몇 단 피라미드입니까?: ");
-		Scanner sc = new Scanner(System.in);
-		n = sc.nextInt();
+		Scanner sc = new Scanner(System.in);			//입력한 값 만큼의 피라미드를 출력할 수 있도록 Scanner를 불러옴
+		n = sc.nextInt();			
 		
 		for (i=1; i<=n; i++) { 
 			for (int k=1; k<=n-i; k++) { 			//k=1, n(입력받은 값)-i만큼 공백 띄우기, k값 증가
