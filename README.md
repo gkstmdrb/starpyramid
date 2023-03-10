@@ -4,6 +4,10 @@
 
 스캐너를 불러와 사용자가 입력한 값 만큼 별을 출력 할 수 있도록 한다.
 
+![image](https://user-images.githubusercontent.com/114748816/224215903-e2a0c910-1569-43e9-a7f4-feb738120ab1.png)
+![image](https://user-images.githubusercontent.com/114748816/224215925-8f772d91-ae8e-4bfc-ac4e-77f89da084d5.png)
+
+
 n은 사용자가 입력한 값이고, i는 for문을 반복하는 횟수이다. 이 2중으로된 3개의 for문에서 가장 큰 틀이 되어 i<=n, i는 n보다 작거나 같으므로 입력한 값 만큼의 줄 수가 되어준다.
 
 하위 for문의 k방을 생성하여 n-i, 입력받은 값과 현재 i번째줄을 빼주므로 n-i만큼의 공백을 띄워준다.
