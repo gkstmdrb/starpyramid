@@ -2,10 +2,6 @@
 
 ### 별 피라미드
 
-package project;
-import java.util.Scanner;
-public class dowhile {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
