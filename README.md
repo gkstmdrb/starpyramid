@@ -14,6 +14,8 @@ k만큼의 공백과 j만큼의 별을 출력한 후 줄을 한 칸 내려준다
 
 이 작업을 n번만큼 반복한다.
 
+![image](https://user-images.githubusercontent.com/114748816/224201165-549a7511-dc4e-4481-98a4-7e93e93aa1e1.png)
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -37,5 +39,3 @@ k만큼의 공백과 j만큼의 별을 출력한 후 줄을 한 칸 내려준다
 			System.out.println(""); 			//n만큼 줄 내리기
 		}
 	}
-
-}
