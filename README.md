@@ -5,6 +5,7 @@
 스캐너를 불러와 사용자가 입력한 값 만큼 별을 출력 할 수 있도록 한다.
 
 ![image](https://user-images.githubusercontent.com/114748816/224215903-e2a0c910-1569-43e9-a7f4-feb738120ab1.png)
+
 ![image](https://user-images.githubusercontent.com/114748816/224215925-8f772d91-ae8e-4bfc-ac4e-77f89da084d5.png)
 
 
